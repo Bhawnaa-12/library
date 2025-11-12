@@ -69,11 +69,4 @@ Bhawana
 This project is licensed under the MIT License – feel free to use and modify it.
 
 
----
-
-Would you like me to include a **"Contributing"** or **"Installation via requirements.txt"** section (for example, if you plan to expand this project)?
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
+-
