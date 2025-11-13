@@ -61,9 +61,9 @@ Implement a graphical user interface (GUI).
 Save user selections to a file.
 
 🧑‍💻 Author
-Bhawana
-📧 [your.email@example.com]
-💻 GitHub Profile
+Bhawna
+📧 [Bhawana_25ds086@saitm.ac.in]
+💻 Bhawnaa-12
 
 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
